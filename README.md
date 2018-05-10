@@ -6,7 +6,6 @@ The Census Income dataset is derived from UCI dataset archieve. The challenge fr
 URL link of the Census Income Data Set: https://archive.ics.uci.edu/ml/datasets/census+income
 
 The variables consist of:
-
 <br>Age = the age of the subject, interval
 <br>Workclass = Occupation of the subject, nominal (Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked)
 <br>Fnlwgt = ID of the subjects, ID
@@ -19,6 +18,6 @@ The variables consist of:
 <br>Sex: The Gender of the subject, binary (Female or Male)
 <br>Target: above 50,000 USD annual income or below 50,000 USD annual income, binary
 
-<b>Objective</b>
+<b>OBJECTIVES</b>
 
 To find best predicting model between Decision Tree and Logistic that predict if a person has annual income above $50,000 USD or below $50,000 based on the given variable
