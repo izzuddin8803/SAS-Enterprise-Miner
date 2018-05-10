@@ -19,6 +19,6 @@ The variables consist of:
 <br>Sex: The Gender of the subject, binary (Female or Male)
 <br>Target: above 50,000 USD annual income or below 50,000 USD annual income, binary
 
-Objective
+<b>Objective</b>
 
 To find best predicting model between Decision Tree and Logistic that predict if a person has annual income above $50,000 USD or below $50,000 based on the given variable
